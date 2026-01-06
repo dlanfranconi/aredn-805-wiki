@@ -1,0 +1,97 @@
+---
+title: San Luis Obispo County AREDN Mesh
+description: 
+published: true
+date: 2026-01-06T07:15:26.831Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-06T03:17:23.896Z
+---
+
+# San Luis Obispo AREDN Mesh Wiki
+
+The San Luis Obispo (SLO) Mesh offers a resilient, high speed digital communications network that is run by licensed ham radio operators. The mesh can be used to support existing emergency communication systems and add increased capabilities and services for the San Luis Obispo Emergency Communications Council (SLOECC) Communications Facilities, local volunteer amateur radio operators, and other users of the mesh. The mesh is setup as a regional Intranet, capable of providing many IP based service that you might find on the internet but in a local, offline format, with the ability to be connected to the internet for long range connections as needed.
+
+Many of the links below redirect to the San Francisco [Bay Area Mesh Web Site](http://wiki.bayareamesh.us/index.php/Bay_Area_Mesh:), as there are several well written guides and resources already available on that wiki. 
+
+This Wiki is dedicated to help document the technical details of the SLO County AREDN Mesh (AREDN805).
+
+![](/screenshot_2026-01-05_191956.png)
+
+# Goals
+
+-   Education, Research & Mentorship of the Amateur Radio Community on digital network technologies.
+-   Reliable, fault-tolerant networks that support multiple simultaneous applications for drills and disaster situations
+-   Scalable network that allows for current userbase and future growth and expansion 
+
+## Getting Started
+
+-   [Getting Started with AREDN](https://wiki.bayareamesh.us/index.php/Getting_Started_with_AREDN)
+-   [Maps](https://wiki.bayareamesh.us/index.php/Maps) - Various maps of mesh nodes and the connections between them
+-   [Radios](https://wiki.bayareamesh.us/index.php/Radios) - Which radio should I buy?
+-   [Videos](https://wiki.bayareamesh.us/index.php/Videos) - Helpful videos
+
+## Resources
+
+-   [Band Plan](https://wiki.bayareamesh.us/index.php/Band_Plan) - How the spectrum is allocated in various areas of the Bay
+-   [Bandwidth Consumption](https://wiki.bayareamesh.us/index.php/Bandwidth_Consumption) - Bandwidth consumption of various classes of applications
+-   [Batteries](https://wiki.bayareamesh.us/index.php/Batteries_and_Solar) - Recommended batteries for off-grid and battery backed-up nodes
+-   [Bay Area Backbone](https://wiki.bayareamesh.us/index.php/Bay_Area_Backbone) - high performance, internet capable, microwave network
+-   [Cables](https://wiki.bayareamesh.us/index.php/Cables) - Recommendation for cabling to use, especially outside
+-   [Cameras](https://wiki.bayareamesh.us/index.php/Cameras) - Recommended cameras
+-   [Commercial WISPs](https://wiki.bayareamesh.us/index.php/Commercial_WISPs) - Local commercial WISPs which often share locations
+-   [Company sites](https://wiki.bayareamesh.us/index.php/Company_sites) - Businesses hosting nodes and extending the network
+-   [Email](https://wiki.bayareamesh.us/index.php/Email) - Internal mesh email
+-   [Netbox](https://wiki.bayareamesh.us/index.php/Netbox) - Network documentation
+-   [High sites](https://wiki.bayareamesh.us/index.php/High_sites) - Elevated sites which are easy to point a radio at
+-   [Maps](https://wiki.bayareamesh.us/index.php/Maps) - Various maps of mesh nodes and the connections between them
+-   [Marketing](https://wiki.bayareamesh.us/index.php/Marketing) - Marketing materials
+-   [MeshChat](https://wiki.bayareamesh.us/index.php/MeshChat) - A chat program design just for AREDN
+-   [Network Time Protocol](https://wiki.bayareamesh.us/index.php/Network_Time_Protocol) - Using and provide network time on the mesh
+-   [Phones & PBX](https://wiki.bayareamesh.us/index.php/Phones_%26_PBX) - Phone and phone systems for the mesh
+-   [Bay Area Mesh Phone Exchange](https://wiki.bayareamesh.us/index.php/Bay_Area_Mesh_Phone_Exchange) - Local Phone exchange for SF Bay Area.
+-   [Power-over-Ethernet](https://wiki.bayareamesh.us/index.php/Power-over-Ethernet) - Options for providing power to nodes via ethernet
+-   [Proxmox](https://wiki.bayareamesh.us/index.php/AREDN_on_Proxmox) - Deploying AREDN on Proxmox
+-   [Radios](https://wiki.bayareamesh.us/index.php/Radios) - Which radio should I buy?
+-   [Solar](https://wiki.bayareamesh.us/index.php/Batteries_and_Solar) - Solar powered nodes
+-   [Services](https://wiki.bayareamesh.us/index.php/Services) - I'm on the mesh .. what next?
+-   [Supernodes](https://wiki.bayareamesh.us/index.php/Supernodes) - Linking AREDN meshes across the world
+-   [Winlink](https://wiki.bayareamesh.us/index.php/Winlink_general_and_specific_help) - General and specific help info.
+
+## Communications
+
+-   [Slack](https://wiki.bayareamesh.us/index.php/AREDN_Community_Slack)
+-   [Discord](https://discord.gg/uqMaQvk762)
+-   Telegram
+
+## Some Other Notable Meshes
+
+-   [North Bay Mesh](https://www.northbaymesh.org/)
+-   [South County Amateur Radio Emergency Services (SCARES)](https://k6mpn.org/)
+-   [Southern California Mesh](https://www.pvarc.club/mesh/)
+-   [MDARC Mesh Network](https://www.mdarc.org/)
+-   [Willamette Valley Mesh](https://willamettevalleymesh.net/)
+-   [Rhode Island Emergency Mesh Network](http://www.wa1usa.club/ri-emergency-mesh-network/)
+
+## Neighboring Microwave Networks
+
+-   [WB6ECE Repeater Group](https://wiki.bayareamesh.us/index.php/WB6ECE_Repeater_Group)
+-   [Ventura County Mesh Network](https://www.pvarc.club/mesh/)
+
+## Historic Networks
+
+-   [AT&T Long Lines](https://long-lines.com/)
+
+## AREDN Links
+
+-   [Main AREDN website](https://www.arednmesh.org/)
+-   [AREDN Documentation](https://arednmesh.readthedocs.io/)
+-   [AREDN GitHub](http://github.com/aredn/)
+
+## Non-Profit
+
+The San Luis Obispo County Mesh is made possible thanks in part to several 501(c)(3) non-profit organizations:
+
+-   [Cal Poly Amateur Radio Club](https://www.w6bhz.org/donate/)
+-   [Estero Radio Club](https://www.sloradio.net/)
+-   [Satellite Amateur Radio Club](https://www.satellitearc.com/index.html)
